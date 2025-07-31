@@ -23,8 +23,8 @@ export const Links = [
     href: 'https://chromium.googlesource.com/chromium/src/+refs',
   },
   {
-    name: 'Official Look Up Page (omahaproxy)',
-    href: 'https://omahaproxy.appspot.com/',
+    name: 'Official Look Up Page (chromiumdash)',
+    href: 'https://chromiumdash.appspot.com/',
   },
   {
     name: 'Official Download Page',
@@ -72,8 +72,8 @@ export const Explains = [
         href: 'https://chromium.googlesource.com/chromium/src/+refs',
       },
       {
-        text: 'find a position number by version (there is an api from https://omahaproxy.appspot.com/)',
-        href: 'https://omahaproxy.appspot.com/deps.json?version=86.0.4240.63',
+        text: 'find a position number by version (there is an api from https://chromiumdash.appspot.com/)',
+        href: 'https://chromiumdash.appspot.com/fetch_version?version=91.0.4472.169',
       },
       {
         text: 'loop all positions of the OS(e.g. Mac), find out if exist in step2 data',
